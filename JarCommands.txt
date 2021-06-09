@@ -1,0 +1,32 @@
+>>>>> Mark & Compact <<<<<
+>>> sample test <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\MarkCompact.jar" "sample test\\heap.csv" "sample test\\roots.txt" "sample test\\pointers.csv" "sample test\\Mark&Compact_new-heap.csv"
+>>> test case 1 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\MarkCompact.jar" "testCase_1\\heap_testCase_1.csv" "testCase_1\\roots_testCase_1.txt" "testCase_1\\pointers_testCase_1.csv" "testCase_1\\Mark&Compact_new-heap_1.csv"
+>>> test case 2 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\MarkCompact.jar" "testCase_2\\heap_testCase_2.csv" "testCase_2\\roots_testCase_2.txt" "testCase_2\\pointers_testCase_2.csv" "testCase_2\\Mark&Compact_new-heap_2.csv"
+>>> test case 3 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\MarkCompact.jar" "testCase_3\\heap_testCase_3.csv" "testCase_3\\roots_testCase_3.txt" "testCase_3\\pointers_testCase_3.csv" "testCase_3\\Mark&Compact_new-heap_3.csv"
+>>> test case 4 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\MarkCompact.jar" "testCase_4\\heap_testCase_4.csv" "testCase_4\\roots_testCase_4.txt" "testCase_4\\pointers_testCase_4.csv" "testCase_4\\Mark&Compact_new-heap_4.csv"
+>>> Test 1 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\MarkCompact.jar" "Test 1\\heap.csv" "Test 1\\roots.txt" "Test 1\\pointers.csv" "Test 1\\Mark&Compact_new-Heap.csv"
+>>> Test 2 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\MarkCompact.jar" "Test 2\\heap.csv" "Test 1\\roots.txt" "Test 2\\pointers.csv" "Test 2\\Mark&Compact_new-Heap.csv"
+
+
+>>>> Copy <<<<<
+>>> sample test <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\Copy.jar" "sample test\\heap.csv" "sample test\\roots.txt" "sample test\\pointers.csv" "sample test\\Copy_new-Heap.csv"
+>>> test case 1 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\Copy.jar" "testCase_1\\heap_testCase_1.csv" "testCase_1\\roots_testCase_1.txt" "testCase_1\\pointers_testCase_1.csv" "testCase_1\\Copy_new-Heap_1.csv"
+>>> test case 2 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\Copy.jar" "testCase_2\\heap_testCase_2.csv" "testCase_2\\roots_testCase_2.txt" "testCase_2\\pointers_testCase_2.csv" "testCase_2\\Copy_new-Heap_2.csv"
+>>> test case 3 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\Copy.jar" "testCase_3\\heap_testCase_3.csv" "testCase_3\\roots_testCase_3.txt" "testCase_3\\pointers_testCase_3.csv" "testCase_3\\Copy_new-Heap_3.csv"
+>>> test case 4 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\Copy.jar" "testCase_4\\heap_testCase_4.csv" "testCase_4\\roots_testCase_4.txt" "testCase_4\\pointers_testCase_4.csv" "testCase_4\\Copy_new-Heap_4.csv"
+>>> Test 1 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\Copy.jar" "Test 1\\heap.csv" "Test 1\\roots.txt" "Test 1\\pointers.csv" "Test 1\\Copy_new-Heap.csv"
+>>> Test 2 <<<
+java -jar "D:\Projects\IdeaProjects\GarbageCollector\Copy.jar" "Test 2\\heap.csv" "Test 2\\roots.txt" "Test 2\\pointers.csv" "Test 2\\Copy_new-Heap.csv"
